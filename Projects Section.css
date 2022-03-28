@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.projects {
+    background-color: #3e4c59;
+    height: 100%;
+    background-size: cover;
+    font-family: Roboto;
+}
+
+.heading-portfolio {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.main-heading-portfolio {
+    color: white;
+    font-weight: 700;
+}
+
+.hotel-image {
+    width: 100%;
+    background-size: cover;
+}
+
+.design {
+    color: #9aa5b1;
+}
+
+.card-heading {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.design-2 {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+.card-hotel {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.read {
+    color: #cced00;
+    font-size: 18px;
+    font-weight: 500;
+}
